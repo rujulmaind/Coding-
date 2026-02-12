@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rujulmaind/Coding-/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/rujulmaind/Coding-/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rujulmaind/Coding-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/rujulmaind/Coding-/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rujulmaind/Coding-/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/rujulmaind/Coding-/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rujulmaind/Coding-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/rujulmaind/Coding-/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -46,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rujulmaind/Coding-/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rujulmaind/Coding-/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rujulmaind/Coding-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
