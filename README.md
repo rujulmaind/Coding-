@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rujulmaind/Coding-/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rujulmaind/Coding-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/rujulmaind/Coding-/tree/master/0169-majority-element) |
+| [2191-sort-the-jumbled-numbers](https://github.com/rujulmaind/Coding-/tree/master/2191-sort-the-jumbled-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/rujulmaind/Coding-/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/rujulmaind/Coding-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rujulmaind/Coding-/tree/master/0169-majority-element) |
+| [2191-sort-the-jumbled-numbers](https://github.com/rujulmaind/Coding-/tree/master/2191-sort-the-jumbled-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
