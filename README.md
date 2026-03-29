@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/rujulmaind/Coding-/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/rujulmaind/Coding-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rujulmaind/Coding-/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/rujulmaind/Coding-/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -118,8 +119,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rujulmaind/Coding-/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/rujulmaind/Coding-/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/rujulmaind/Coding-/tree/master/0070-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rujulmaind/Coding-/tree/master/0022-generate-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rujulmaind/Coding-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
