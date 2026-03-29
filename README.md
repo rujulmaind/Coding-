@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rujulmaind/Coding-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/rujulmaind/Coding-/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rujulmaind/Coding-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rujulmaind/Coding-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/rujulmaind/Coding-/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rujulmaind/Coding-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## String
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rujulmaind/Coding-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/rujulmaind/Coding-/tree/master/0100-same-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -128,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rujulmaind/Coding-/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/rujulmaind/Coding-/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
