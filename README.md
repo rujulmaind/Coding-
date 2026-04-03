@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rujulmaind/Coding-/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/rujulmaind/Coding-/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rujulmaind/Coding-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0119-pascals-triangle-ii](https://github.com/rujulmaind/Coding-/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/rujulmaind/Coding-/tree/master/0169-majority-element) |
 | [2191-sort-the-jumbled-numbers](https://github.com/rujulmaind/Coding-/tree/master/2191-sort-the-jumbled-numbers) |
 ## Binary Search
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/rujulmaind/Coding-/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/rujulmaind/Coding-/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/rujulmaind/Coding-/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/rujulmaind/Coding-/tree/master/0119-pascals-triangle-ii) |
 ## Backtracking
 |  |
 | ------- |
