@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/rujulmaind/Coding-/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rujulmaind/Coding-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rujulmaind/Coding-/tree/master/0344-reverse-string) |
+| [0784-letter-case-permutation](https://github.com/rujulmaind/Coding-/tree/master/0784-letter-case-permutation) |
 ## Trie
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rujulmaind/Coding-/tree/master/0022-generate-parentheses) |
+| [0784-letter-case-permutation](https://github.com/rujulmaind/Coding-/tree/master/0784-letter-case-permutation) |
 ## Memoization
 |  |
 | ------- |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/rujulmaind/Coding-/tree/master/0733-flood-fill) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/rujulmaind/Coding-/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
