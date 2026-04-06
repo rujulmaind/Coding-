@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rujulmaind/Coding-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/rujulmaind/Coding-/tree/master/0119-pascals-triangle-ii) |
 | [0130-surrounded-regions](https://github.com/rujulmaind/Coding-/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/rujulmaind/Coding-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rujulmaind/Coding-/tree/master/0169-majority-element) |
 | [0733-flood-fill](https://github.com/rujulmaind/Coding-/tree/master/0733-flood-fill) |
 | [2191-sort-the-jumbled-numbers](https://github.com/rujulmaind/Coding-/tree/master/2191-sort-the-jumbled-numbers) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/rujulmaind/Coding-/tree/master/0136-single-number) |
 | [0784-letter-case-permutation](https://github.com/rujulmaind/Coding-/tree/master/0784-letter-case-permutation) |
 ## Union-Find
 |  |
