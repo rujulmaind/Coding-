@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/rujulmaind/Coding-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rujulmaind/Coding-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/rujulmaind/Coding-/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/rujulmaind/Coding-/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rujulmaind/Coding-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0147-insertion-sort-list](https://github.com/rujulmaind/Coding-/tree/master/0147-insertion-sort-list) |
 ## Math
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rujulmaind/Coding-/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/rujulmaind/Coding-/tree/master/0010-regular-expression-matching) |
+| [0024-swap-nodes-in-pairs](https://github.com/rujulmaind/Coding-/tree/master/0024-swap-nodes-in-pairs) |
 | [0509-fibonacci-number](https://github.com/rujulmaind/Coding-/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
